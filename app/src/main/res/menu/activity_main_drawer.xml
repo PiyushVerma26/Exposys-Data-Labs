@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home"
+            android:menuCategory="secondary"/>
+
+        <item
+            android:id="@+id/internship"
+            android:icon="@drawable/intern"
+            android:title="@string/internship_job"
+            android:menuCategory="secondary"/>
+
+
+        <item
+            android:id="@+id/payment"
+            android:icon="@drawable/payment"
+            android:title="@string/payment"
+            android:menuCategory="secondary"/>
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/info"
+            android:title="@string/about_us"
+            android:menuCategory="secondary"/>
+
+    </group>
+
+    <item android:title="@string/admin"
+        android:menuCategory="secondary">
+        <menu>
+            <item
+                android:id="@+id/formInfo"
+                android:icon="@drawable/forminfo"
+                android:title="@string/form_info"
+                android:menuCategory="secondary"/>
+
+            <item
+                android:id="@+id/website"
+                android:icon="@drawable/web"
+                android:title="@string/app_name"
+                android:menuCategory="secondary"/>
+        </menu>
+
+    </item>
+</menu>

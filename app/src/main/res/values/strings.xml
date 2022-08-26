@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Exposys Data Labs</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="register">Register Now</string>
+    <string name="already">Already a member? Sign-in now</string>
+    <string name="register_now">New member? Register now</string>
+    <string name="log_in">Log-in</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="admin">Admin</string>
+    <string name="payment">Payment</string>
+    <string name="internship_job">Internship/Job</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="college_name">College Name</string>
+    <string name="_10th_percentage">10th percentage</string>
+    <string name="_12th_percentage">12th Percentage</string>
+    <string name="upload_your_resume">Upload Your Resume</string>
+    <string name="upload">Upload</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit_your_form">Submit Your Form</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="todo">TODO</string>
+    <string name="form_info">Form Info</string>
+    <string name="scopes">All Around The World</string>
+    <string name="streams">Streams eg:-Android Developments,web , c++</string>
+    <string name="duration">Select Internship Duration eg:-1W , 1M , 2M , 6M</string>
+    <string name="application_forms">Application Forms</string>
+    <string name="notice">This Activity is only Authorize For Members Of Exposys Data Labs, or those who have passcode .If ,You have then enter the passcode in the given box and enjoy your tour . !!Thank you!!</string>
+    <string name="enter_passcode">Enter PassCode</string>
+    <string name="check">Check</string>
+    <string name="enter_your_upi_id">Enter Your Upi ID</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="submit_payment">Submit Payment</string>
+    <string name="enter_payment_description">Enter Payment Description</string>
+    <string name="check_detail">Check Detail</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="developed_by">Developed By</string>
+    <string name="piyush_verma">Piyush Verma</string>
+    <string name="android_developer_c_java_firebase_rtrofit">Android Developer, C++ , Java , Firebase , Retrofit.</string>
+    <string name="address">Yelahanka,Bengaluru Karnataka 560064</string>
+
+    <string name="exposys_contact_detail">Exposys Contact Detail</string>
+    <string name="hr">hr@exposysdata.com</string>
+    <string name="_917795207065">+917795207065</string>
+    <string name="adalbari_buddha_colony_hajipur_bihar_844101">Adalbari Buddha Colony Hajipur Bihar 844101</string>
+    <string name="piyushv528_gmail_com">piyushv528@gmail.com</string>
+    <string name="piyush">+918405060938</string>
+    <string name="about_developer">About Developer</string>
+    <string name="connect_with_us_on_github">Connect with Us On Github</string>
+    <string name="connect_with_us_on_linkedin">Connect With Us On Linkedin</string>
+    <string name="submit_edited_form">Submit Edited Form</string>
+    <string name="edit_your_application">Edit Your Application</string>
+    <string name="edit_form">Edit Form</string>
+    <string name="your_application_form">Your Application Form</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/internship"
+        android:name="hello.tech.exposysdatalabs.Fragments.ApplicationFragment"
+        android:label="@string/internship_job"
+        tools:layout="@layout/fragment_application" />
+    <fragment
+        android:id="@+id/about"
+        android:name="hello.tech.exposysdatalabs.Fragments.AboutFragment"
+        android:label="@string/about_us"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/home"
+        android:name="hello.tech.exposysdatalabs.Fragments.HomeFragment"
+        android:label="@string/scopes"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/payment"
+        android:name="hello.tech.exposysdatalabs.Fragments.PaymentFragment"
+        android:label="Payment"
+        tools:layout="@layout/fragment_payment" />
+    <fragment
+        android:id="@+id/formInfo"
+        android:name="hello.tech.exposysdatalabs.Fragments.FormInfoFragment"
+        android:label="Admin Access"
+        tools:layout="@layout/fragment_form_info" />
+    <fragment
+        android:id="@+id/website"
+        android:name="hello.tech.exposysdatalabs.Fragments.WebsiteFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_website" />
+</navigation>
