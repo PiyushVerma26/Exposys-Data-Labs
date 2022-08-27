@@ -1,13 +1,13 @@
 # Exposys-Data-Labs
-##Features:-
+## Features:-
 Authentication, Application to application Connect through intent, Application form Preview, News About Programming languages. 
 
-##Application Architecture:-
+## Application Architecture:-
 IDE: Android Studio. Firebase Real Time Database. API: News API .Programming Language: JAVA .Third Party Libraries: Retrofit:-construct the REST APIs and paging network data, 
 Picasso:-Loading Images, Gson:-A modern JSON library for Kotlin and Java. Material Design Components like Card View,Recycle View.Fragments,Firebase for Authentication.
 
 
-##Snapshots:-
+## Snapshots:-
 
 ![about](https://user-images.githubusercontent.com/82715850/187013066-e51fbf5d-df7c-47b7-8c3b-28196da66cb4.jpeg)
 ![admin](https://user-images.githubusercontent.com/82715850/187013069-15bb7ad6-8791-4cb3-856b-1e10b0ec3f73.jpeg)
